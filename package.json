@@ -37,7 +37,8 @@
       "platform": "ios",
       "version": "",
       "locator": "ios"
-    }
+    },
+    "android"
   ],
   "name": "logindemo",
   "description": "LoginDemo: An Ionic project",
