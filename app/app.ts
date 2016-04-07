@@ -16,6 +16,7 @@ export class MyApp {
 
   constructor(platform: Platform) {
 
+    // debugger;
     Parse.initialize("myAppId");
     Parse.serverURL = 'http://localhost:1337/parse'
 

@@ -60,7 +60,7 @@
 			"request": "launch",
 			"platform": "ios",
 			"target": "emulator",
-			"port": 9222,
+			"port": 9223,
 			"sourceMaps": true,
 			"cwd": "${workspaceRoot}",
 			"ionicLiveReload": false
